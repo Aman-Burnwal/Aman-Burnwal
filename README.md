@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Websites
 - 📫 contact me on my telegram I'd :- Aman_cse
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman-Burnwa&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aman-Burnwal&theme=radical)
 
 <!---
 Aman-Burnwal/Aman-Burnwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
