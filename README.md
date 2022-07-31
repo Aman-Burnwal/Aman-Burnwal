@@ -6,8 +6,7 @@
 
 
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-Burnwal&theme=radical)]
-
+[![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-Burnwal)](https://github.com/Aman-Burnwal/github-readme-stats)
 <!---
 Aman-Burnwal/Aman-Burnwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
