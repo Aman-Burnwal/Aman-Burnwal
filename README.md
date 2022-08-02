@@ -6,9 +6,7 @@
 
 
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-Burnwal&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true)
-
-
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aman-Burnwal&show_icons=true&theme=radical)
 
 <!---
 Aman-Burnwal/Aman-Burnwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
